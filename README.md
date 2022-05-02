@@ -2,4 +2,4 @@
 
 ### SPA 공부한 것들 모음집
 
--   [React](https://github.com/HanHyunsoo/SPA-Storage/tree/main/react)
+-   [React](https://github.com/HanHyunsoo/SPA-Storage/tree/main/React)
